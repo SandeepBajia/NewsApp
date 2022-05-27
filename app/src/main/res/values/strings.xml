@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">News App</string>
+
+
+    <string name="Business">business</string>
+    <string name="Entertainment">entertainment</string>
+    <string name="General">general</string>
+    <string name="Health">health</string>
+    <string name="Science">science</string>
+    <string name="Sports">sports</string>
+    <string name="Technology">technology</string>
+
+    <string name="SelectCategory">Select Category</string>
+
+    <string name="India">India</string>
+    <string name="China">China</string>
+    <string name="America">America</string>
+    <string name="Pakistan">Pakistan</string>
+    <string name="Russia">Russia</string>
+    <string name="France">France</string>
+    <string name="Japan">Japan</string>
+    <string name="SriLanka">Sri Lanka</string>
+    <string name="Nepal">Nepal</string>
+
+</resources>

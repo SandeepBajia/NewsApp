@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="category">
+        <item>@string/General</item>
+        <item>@string/Entertainment</item>
+        <item>@string/Sports</item>
+        <item>@string/Business</item>
+        <item>@string/Health</item>
+        <item>@string/Science</item>
+        <item>@string/Technology</item>
+    </string-array>
+
+    <string-array name="county">
+        <item>@string/India</item>
+        <item>@string/America</item>
+        <item>@string/Russia</item>
+        <item>@string/Pakistan</item>
+        <item>@string/China</item>
+        <item>@string/Nepal</item>
+        <item>@string/France</item>
+        <item>@string/Japan</item>
+        <item>@string/SriLanka</item>
+    </string-array>
+
+</resources>
